@@ -5,7 +5,7 @@
 echo '<!DOCTYPE HTML>
 <HTML>
 <HEAD>
-<title>@Mr.Ti74N</title>
+<title>@Mr_Ti74N</title>
 <style>
 body{
 font-family: monospace;
